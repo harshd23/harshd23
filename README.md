@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshd23
-- 👀 I’m interested in Different PRogramming Languages and Hardware
+- 👀 I’m interested in Different Programming Languages and Hardware
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me On Instagram: @harsh_97d
