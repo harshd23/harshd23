@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @harshd23
-- 👀 I’m interested in Different Programming Languages and Hardware
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Heyo, I’m Harsh Dalvi
+- 👀 I’m interested in Artificial Intelligence and Machine Learning 🤖🧠
+- 🌱 I’m currently learning Pytorch 🔥
+- 💞️ I’m looking to collaborate on Open Source Projects 💻👨‍💻
 
 <!---
 harshd23/harshd23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
