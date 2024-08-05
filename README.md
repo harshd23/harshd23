@@ -1,6 +1,6 @@
 - 👋 Heyo, I’m Harsh Dalvi
 - 👀 I’m interested in Artificial Intelligence and Machine Learning 🤖🧠
-- 🌱 I’m currently learning Pytorch 🔥
+- 🌱 I’m currently exploring & learning LLMs 🔥
 - 💞️ I’m looking to collaborate on Open Source Projects 💻👨‍💻
 
 <!---
